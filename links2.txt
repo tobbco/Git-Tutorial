@@ -1,0 +1,2 @@
+http://wiki.archlinux.org
+http://wiki.manjaro.org
